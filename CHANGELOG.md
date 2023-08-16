@@ -1,3 +1,8 @@
+# Unreleased
+
+Changed
+  * AZ-1131: Add default deployed resources visualizer
+
 # v7.5.0 - 2023-07-21
 
 Added
